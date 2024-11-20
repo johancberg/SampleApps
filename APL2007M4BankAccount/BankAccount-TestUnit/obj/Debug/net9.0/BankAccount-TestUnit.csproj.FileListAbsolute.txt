@@ -1,0 +1,6 @@
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M4BankAccount\BankAccount-TestUnit\obj\Debug\net9.0\BankAccount-TestUnit.csproj.AssemblyReference.cache
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M4BankAccount\BankAccount-TestUnit\obj\Debug\net9.0\BankAccount-TestUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M4BankAccount\BankAccount-TestUnit\obj\Debug\net9.0\BankAccount-TestUnit.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M4BankAccount\BankAccount-TestUnit\obj\Debug\net9.0\BankAccount-TestUnit.AssemblyInfo.cs
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M4BankAccount\BankAccount-TestUnit\obj\Debug\net9.0\BankAccount-TestUnit.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M4BankAccount\BankAccount-TestUnit\obj\Debug\net9.0\BankAccount-TestUnit.sourcelink.json

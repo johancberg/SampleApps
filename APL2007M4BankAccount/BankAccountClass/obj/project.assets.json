@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "BankAccount-TestUnit/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/BankAccount-TestUnit.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BankAccount-TestUnit.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BankAccount-TestUnit/1.0.0": {
+      "type": "project",
+      "path": "../BankAccount-TestUnit/BankAccount-TestUnit.csproj",
+      "msbuildProject": "../BankAccount-TestUnit/BankAccount-TestUnit.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "BankAccount-TestUnit >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\johan\\.nuget\\packages\\": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\johan\\OneDrive\\Dokument\\Programming Projects\\C#\\SampleApps\\APL2007M4BankAccount\\BankAccount-TestUnit\\BankAccount-TestUnit.csproj": {
+              "projectPath": "C:\\Users\\johan\\OneDrive\\Dokument\\Programming Projects\\C#\\SampleApps\\APL2007M4BankAccount\\BankAccount-TestUnit\\BankAccount-TestUnit.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -86,5 +109,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project BankAccount-TestUnit is not compatible with net8.0 (.NETCoreApp,Version=v8.0). Project BankAccount-TestUnit supports: net9.0 (.NETCoreApp,Version=v9.0)",
+      "libraryId": "BankAccount-TestUnit",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
