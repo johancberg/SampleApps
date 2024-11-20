@@ -1,0 +1,10 @@
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M2Sample1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M2Sample1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M2Sample1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M2Sample1\obj\Debug\net6.0-windows\APL2007M2Sample1_MarkupCompile.cache
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M2Sample1\obj\Debug\net6.0-windows\APL2007M2Sample1.g.resources
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M2Sample1\obj\Debug\net6.0-windows\APL2007M2Sample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M2Sample1\obj\Debug\net6.0-windows\APL2007M2Sample1.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M2Sample1\obj\Debug\net6.0-windows\APL2007M2Sample1.AssemblyInfo.cs
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M2Sample1\obj\Debug\net6.0-windows\APL2007M2Sample1.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M2Sample1\obj\Debug\net6.0-windows\APL2007M2Sample1.sourcelink.json

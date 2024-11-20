@@ -1,0 +1,15 @@
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M3SalesReport-SalesOrders\bin\Debug\net8.0\APL2007M3SalesReport-SalesOrders.exe
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M3SalesReport-SalesOrders\bin\Debug\net8.0\APL2007M3SalesReport-SalesOrders.deps.json
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M3SalesReport-SalesOrders\bin\Debug\net8.0\APL2007M3SalesReport-SalesOrders.runtimeconfig.json
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M3SalesReport-SalesOrders\bin\Debug\net8.0\APL2007M3SalesReport-SalesOrders.dll
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M3SalesReport-SalesOrders\bin\Debug\net8.0\APL2007M3SalesReport-SalesOrders.pdb
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M3SalesReport-SalesOrders\obj\Debug\net8.0\APL2007M3SalesReport-SalesOrders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M3SalesReport-SalesOrders\obj\Debug\net8.0\APL2007M3SalesReport-SalesOrders.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M3SalesReport-SalesOrders\obj\Debug\net8.0\APL2007M3SalesReport-SalesOrders.AssemblyInfo.cs
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M3SalesReport-SalesOrders\obj\Debug\net8.0\APL2007M3SalesReport-SalesOrders.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M3SalesReport-SalesOrders\obj\Debug\net8.0\APL2007M3SalesReport-SalesOrders.sourcelink.json
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M3SalesReport-SalesOrders\obj\Debug\net8.0\APL2007M3SalesReport-SalesOrders.dll
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M3SalesReport-SalesOrders\obj\Debug\net8.0\refint\APL2007M3SalesReport-SalesOrders.dll
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M3SalesReport-SalesOrders\obj\Debug\net8.0\APL2007M3SalesReport-SalesOrders.pdb
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M3SalesReport-SalesOrders\obj\Debug\net8.0\APL2007M3SalesReport-SalesOrders.genruntimeconfig.cache
+C:\Users\johan\OneDrive\Dokument\Programming Projects\C#\SampleApps\APL2007M3SalesReport-SalesOrders\obj\Debug\net8.0\ref\APL2007M3SalesReport-SalesOrders.dll

@@ -53,6 +53,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAccount.UnitTests", "AP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAccount", "APL2007M5BankAccount-Security\BankAccountClass\BankAccount.csproj", "{F3B2E342-45CD-4A7B-816D-FA752D88E9E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeService.UnitTests", "APL2007M4PrimeService\PrimeService.UnitTests\PrimeService.UnitTests.csproj", "{ECF3CE05-EBA7-4B94-901A-12CC6A77BE14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -131,6 +133,10 @@ Global
 		{F3B2E342-45CD-4A7B-816D-FA752D88E9E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3B2E342-45CD-4A7B-816D-FA752D88E9E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3B2E342-45CD-4A7B-816D-FA752D88E9E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF3CE05-EBA7-4B94-901A-12CC6A77BE14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF3CE05-EBA7-4B94-901A-12CC6A77BE14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF3CE05-EBA7-4B94-901A-12CC6A77BE14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF3CE05-EBA7-4B94-901A-12CC6A77BE14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -147,6 +153,7 @@ Global
 		{D8B89489-7D49-4D2F-8953-61893DD95A64} = {D6AC766D-3A67-476F-B04B-4003A418C2EC}
 		{1F89BB90-F804-4CE2-8527-08EB273818F3} = {D035D638-171F-43F6-B4A1-2C4FCBB479AD}
 		{F3B2E342-45CD-4A7B-816D-FA752D88E9E5} = {D035D638-171F-43F6-B4A1-2C4FCBB479AD}
+		{ECF3CE05-EBA7-4B94-901A-12CC6A77BE14} = {E048036B-2697-4BAD-B250-EE08B4692817}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {37CF3602-6A8F-4579-8017-AB6601A19CF2}
